@@ -1,0 +1,2 @@
+# FirstExJs
+Primer ejercicio JavaScript
